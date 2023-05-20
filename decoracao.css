@@ -1,0 +1,55 @@
+body{
+
+    font-family: Arial;
+    
+}
+
+table {
+
+    margin: auto;  
+
+}
+
+td {
+    border: 1px solid black;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+h1{
+
+    background-color: white;
+    color: grey;
+    size:"30";
+    text-align: center;
+
+}
+
+.sab {
+
+background-color: #b7caff;
+color: blue;
+
+}
+
+.dom {
+
+    background-color: rgb(252, 252, 118);
+    color: red;   
+
+}
+
+#p1 {
+
+    color: red;   
+
+}
+
+.dds {
+
+    background-color: rgb(204, 204, 204);
+
+}
